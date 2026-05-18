@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋 I'm Kerem
 
-<!--
-**keremsarzep/keremsarzep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software & Industrial Engineering Student  
+💻 Building efficient systems & scalable software  
+⚡ Passionate about optimization, problem solving and clean code  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About This Repository
+This repository showcases my personal projects, experiments and learning journey in software development and system optimization.
+
+---
+
+## 🧠 About Me
+- 🎓 Software & Industrial Engineering Student  
+- 💡 Interested in backend development, systems and optimization  
+- 📈 Always learning and improving  
+- 🎯 Goal: Becoming a well-rounded engineer  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Python, JavaScript (update this)
+- ⚙️ Tools: Git, GitHub, VS Code  
+- 📊 Interests: Backend, Data, Optimization  
+
+---
+
+## 🚀 Projects
+Coming Soon !!!
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keremsarzep&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect with Me
+- 💼 LinkedIn: www.linkedin.com/in/kerem-sarzep-13b089336
+- 📫 Email: keremsarzep@gmail.com
+
+---
+
+## ⚡ Motto
+> Code. Optimize. Repeat.
