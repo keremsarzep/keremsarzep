@@ -20,9 +20,9 @@ This repository showcases my personal projects, experiments and learning journey
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Python, JavaScript (update this)
+- 💻 Languages: Python, JavaScript, HTML, CSS, Java, C++, C, SQL
 - ⚙️ Tools: Git, GitHub, VS Code  
-- 📊 Interests: Backend, Data, Optimization  
+- 📊 Interests: Backend, Frontend, Data, Optimization  
 
 ---
 
