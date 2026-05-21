@@ -27,7 +27,11 @@ This repository showcases my personal projects, experiments and learning journey
 ---
 
 ## 🚀 Projects
-Coming Soon !!!
+
+* **[Real-Time Currency Converter](https://github.com/keremsarzep/doviz-donusturucu)**
+  * **Description:** A dynamic web application that fetches real-time exchange rates via an external API, featuring asynchronous JavaScript logic and a modern CSS layout.
+  * **Technologies:** HTML5, CSS3 (Flexbox), JavaScript (Fetch API, Async/Await)
+  * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/doviz-donusturucu/)
 
 ---
 
