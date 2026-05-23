@@ -42,6 +42,10 @@ This repository showcases my personal projects, experiments and learning journey
   * **Technologies:** HTML5, CSS3 (Advanced Backdrop Filters), JavaScript (Interval Architecture & State Management)
   * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/pomodoro-timer/)
 
+* **[Premium Budget Tracker](https://github.com/keremsarzep/budget-tracker)**
+  * **Description:** An elegant, Apple Wallet-inspired financial management dashboard that performs persistent CRUD operations using LocalStorage. Features an intuitive income/expense type controller and a dynamic global currency engine ($ / € / ₺).
+  * **Technologies:** HTML5, CSS3 (Grid & Responsive Layouts), JavaScript (Array Architecture & Data Persistence)
+  * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/budget-tracker/)
 ---
 
 ## 📈 GitHub Stats
