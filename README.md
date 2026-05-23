@@ -27,7 +27,6 @@ This repository showcases my personal projects, experiments and learning journey
 ---
 
 ## 🚀 Projects
-
 * **[Real-Time Currency Converter](https://github.com/keremsarzep/doviz-donusturucu)**
   * **Description:** A dynamic web application that fetches real-time exchange rates via an external API, featuring asynchronous JavaScript logic and a modern CSS layout.
   * **Technologies:** HTML5, CSS3 (Flexbox), JavaScript (Fetch API, Async/Await)
@@ -37,6 +36,12 @@ This repository showcases my personal projects, experiments and learning journey
   * **Description:** An advanced, Apple-inspired scientific calculator that performs trigonometric, logarithmic, and factorial calculations using custom state management.
   * **Technologies:** HTML5, CSS3 (Advanced Grid Layout), JavaScript (Recursive Logic)
   * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/scientific-calculator/)
+
+* **[Premium Pomodoro Timer](https://github.com/keremsarzep/pomodoro-timer)**
+  * **Description:** A sleek, Apple-inspired productivity application featuring custom session durations, tab title synchronization for real-time tracking, an automated 4-stage session loop, and a custom-built success modal UI.
+  * **Technologies:** HTML5, CSS3 (Advanced Backdrop Filters), JavaScript (Interval Architecture & State Management)
+  * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/pomodoro-timer/)
+
 ---
 
 ## 📈 GitHub Stats
