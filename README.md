@@ -33,6 +33,10 @@ This repository showcases my personal projects, experiments and learning journey
   * **Technologies:** HTML5, CSS3 (Flexbox), JavaScript (Fetch API, Async/Await)
   * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/doviz-donusturucu/)
 
+* **[Scientific Calculator](https://github.com/keremsarzep/scientific-calculator)**
+  * **Description:** An advanced, Apple-inspired scientific calculator that performs trigonometric, logarithmic, and factorial calculations using custom state management.
+  * **Technologies:** HTML5, CSS3 (Advanced Grid Layout), JavaScript (Recursive Logic)
+  * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/scientific-calculator/)
 ---
 
 ## 📈 GitHub Stats
