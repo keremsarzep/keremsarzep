@@ -51,6 +51,11 @@ This repository showcases my personal projects, experiments and learning journey
   * **Description:** A premium, glassmorphism-designed weather application driven by the Open-Meteo API. Built with asynchronous JavaScript chains to handle geocoding coordinates, real-time metrics generation, and ambient CSS-driven background effect systems (rain and snow particles) synced to local weather codes.
   * **Technologies:** HTML5, CSS3 (Keyframe Particles & Flex/Grid Architectures), JavaScript (Async/Await & DOM Manipulation Engines)
   * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/weather-dashboard/)
+   
+* **[Premium Google-Style Snake Game](https://keremsarzep.github.io/snake-game/)
+  * **Description:** A dynamic, high-performance arcade web application built on HTML5 Canvas featuring fluid turn algorithms, interactive skin customization, and a fully synthetic audio engine.
+  * **Technologies:** HTML5 (Canvas API), CSS3 (Google Minimalist Theme), JavaScript (ES6+, Web Audio API)
+  * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/snake-game/)
 ---
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keremsarzep&show_icons=true&theme=tokyonight)
