@@ -47,7 +47,7 @@ This repository showcases my personal projects, experiments and learning journey
   * **Technologies:** HTML5, CSS3 (Grid & Responsive Layouts), JavaScript (Array Architecture & Data Persistence)
   * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/budget-tracker/)
 
-* **[Dynamic Weather Dashboard](https://github.com/keremsarzep/weather-dashboard)**
+*   [Dynamic Weather Dashboard](https://github.com/keremsarzep/weather-dashboard)**
   * **Description:** A premium, glassmorphism-designed weather application driven by the Open-Meteo API. Built with asynchronous JavaScript chains to handle geocoding coordinates, real-time metrics generation, and ambient CSS-driven background effect systems (rain and snow particles) synced to local weather codes.
   * **Technologies:** HTML5, CSS3 (Keyframe Particles & Flex/Grid Architectures), JavaScript (Async/Await & DOM Manipulation Engines)
   * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/weather-dashboard/)
