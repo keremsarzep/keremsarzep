@@ -56,6 +56,11 @@ This repository showcases my personal projects, experiments and learning journey
   * **Description:** A dynamic, high-performance arcade web application built on HTML5 Canvas featuring fluid turn algorithms, interactive skin customization, and a fully synthetic audio engine.
   * **Technologies:** HTML5 (Canvas API), CSS3 (Google Minimalist Theme), JavaScript (ES6+, Web Audio API)
   * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/snake-game/)
+
+* **[Premium Minimalist Sudoku]**(https://keremsarzep.github.io/snake-game/)**
+  * **Description:** A standalone arcade-style web application built on a Backtracking generation algorithm, featuring dynamic grid highlight filters, real-time level progression, and a state-preserved pause mechanism.
+* **Technologies:** HTML5, CSS3 (Modern Dark Grid Layout), JavaScript (ES6, Intelligent Backtracking Engine)
+* **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/snake-game/)
 ---
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keremsarzep&show_icons=true&theme=tokyonight)
