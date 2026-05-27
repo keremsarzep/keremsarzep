@@ -59,8 +59,8 @@ This repository showcases my personal projects, experiments and learning journey
 
 * **[Premium Minimalist Sudoku](https://keremsarzep.github.io/sudoku-game/)**
   * **Description:** A standalone arcade-style web application built on a Backtracking generation algorithm, featuring dynamic grid highlight filters, real-time level progression, and a state-preserved pause mechanism.
-* **Technologies:** HTML5, CSS3 (Modern Dark Grid Layout), JavaScript (ES6, Intelligent Backtracking Engine)
-* **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/sudoku-game/)
+  * **Technologies:** HTML5, CSS3 (Modern Dark Grid Layout), JavaScript (ES6, Intelligent Backtracking Engine)
+  * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/sudoku-game/)
 ---
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keremsarzep&show_icons=true&theme=tokyonight)
