@@ -61,7 +61,7 @@ This repository showcases my personal projects, experiments and learning journey
   * **Description:** A standalone arcade-style web application built on a Backtracking generation algorithm, featuring dynamic grid highlight filters, real-time level progression, and a state-preserved pause mechanism.
   * **Technologies:** HTML5, CSS3 (Modern Dark Grid Layout), JavaScript (ES6, Intelligent Backtracking Engine)
   * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/sudoku-game/)
----
+
 * **[Memory Game](https://keremsarzep.github.io/memory-game/)**
   * **Description:** A multi-category, timed memory-matching game covering Chemistry, English, Geography, and Math. Features 3 difficulty levels, bilingual (TR/EN) support, procedurally generated sound effects via the Web Audio API, and persistent per-category leaderboards.
   * **Technologies:** HTML5, CSS3 (3D Card-Flip Transforms & Glassmorphism UI), JavaScript (ES6, Web Audio API, localStorage)
