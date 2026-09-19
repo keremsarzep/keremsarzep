@@ -65,8 +65,14 @@ This repository showcases my personal projects, experiments and learning journey
 * **[Memory Game](https://keremsarzep.github.io/memory-game/)**
   * **Description:** A multi-category, timed memory-matching game covering Chemistry, English, Geography, and Math. Features 3 difficulty levels, bilingual (TR/EN) support, procedurally generated sound effects via the Web Audio API, and persistent per-category leaderboards.
   * **Technologies:** HTML5, CSS3 (3D Card-Flip Transforms & Glassmorphism UI), JavaScript (ES6, Web Audio API, localStorage)
-  * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/memory-game/)
+  * **Live Demo:** [Experience the App 🌐](https://keremsarzep.github.io/memory-game/
+    
+* **[Defter — Full-Stack Todo App](https://github.com/keremsarzep/defter-app/)**
+  * **Description:** A full-stack task management app with JWT authentication, persistent SQLite storage, and a hand-crafted notebook-style UI. Supports task editing, due dates, categories, priority levels, filtering/sorting, dark mode, and bilingual (TR/EN) support.
+  * **Technologies:** FastAPI, SQLite, React (Vite), JWT (python-jose), bcrypt (passlib)
+  * **Repository:** [View the Code 📂](https://github.com/keremsarzep/defter-app/)
 ---
+
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keremsarzep&show_icons=true&theme=tokyonight)
 
